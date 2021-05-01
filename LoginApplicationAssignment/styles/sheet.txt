@@ -1,0 +1,10 @@
+QPushButton#pushButton_login
+{
+color:white;
+background-color:red;
+}
+QPushButton#pushButton_cancel
+{
+color:white;
+background-color:green;
+}
